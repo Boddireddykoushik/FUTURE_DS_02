@@ -1,4 +1,3 @@
-# FUTURE_DS_02
 Telco Customer Churn Analysis Dashboard
 
 Project Overview:
